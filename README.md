@@ -7,8 +7,8 @@ This Tableau dashboard provides a detailed analysis of house sales data in King 
 
 ## 🛠️ Tools and Technologies  
 - **Tableau:** Used for creating visualizations and interactive dashboards.  
-- **Data Source:** [Mention your data source here, e.g., Kaggle, King County dataset, or another public source].  
-- **Others:** [Optional - mention preprocessing tools like Python/Excel if used].
+- **Data Source:** [ Kaggle, King County dataset,].  
+- 
 
 ---
 
@@ -50,9 +50,7 @@ This Tableau dashboard provides a detailed analysis of house sales data in King 
 ---
 
 ## 📂 How to Access  
-1. **View on Tableau Public:** [Add your Tableau Public link here, if applicable].  
-2. **Download the Project:**  
-   - Clone this repository and access the `.twbx` file using Tableau Desktop.  
+1. **View on Tableau Public:** [(https://public.tableau.com/app/profile/dulaj.weerasinghe/viz/KingCountyHouseSales_17361150460170/KINGCOUNTYHOUSESALE)].   
 
 ---
 
